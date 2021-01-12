@@ -1,0 +1,21 @@
+{
+  "name": "gpppd_fetch",
+  "version": "1.0.0-2D",
+  "description": "NPM package for Get Put Post Patch Delete fetch.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoffeeCreamer435/gpppd_fetch"
+  },
+  "author": "Ido435",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoffeeCreamer435/HTML_Response_Codes/issues"
+  },
+  "homepage": "https://github.com/CoffeeCreamer435/HTML_Response_Codes#readme",
+  "dependencies": {},
+  "keywords": ["HTML", "Response", "Codes"]
+}
