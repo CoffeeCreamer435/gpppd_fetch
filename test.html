@@ -1,0 +1,13 @@
+<script>
+"use strict";
+
+var _fetch = require("./src/fetch");
+
+var _UrlBuilder = require("./src/UrlBuilder");
+
+var _HeaderBuilder = require("./src/HeaderBuilder");
+
+setBaseUrl("https://au36acybv4.execute-api.us-east-1.amazonaws.com/prod");
+console.log(buildUrl(getBaseUrl, [{"name" : "name", "value": "value"}]))
+
+</script>
